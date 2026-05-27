@@ -1,6 +1,6 @@
 # price-compare-cn · 跨平台价格对比
 
-> 这是 [xiaxiayouhui-cps](https://github.com/xiaxiayouhui/xiaxiayouhui-cps) 的别名仓库。
+> [Redirect] 折扣发现工具 · 跳转到官方仓库: xiaxiayouhui-deals
 > 真正的 Skill 在那里。点进去 → 一键安装。
 
 [![主仓库](https://img.shields.io/badge/%E4%B8%BB%E4%BB%93%E5%BA%93-xiaxiayouhui--cps-blue)](https://github.com/xiaxiayouhui/xiaxiayouhui-cps)
